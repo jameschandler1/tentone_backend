@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm start"
+  },
+  "dependencies": {
+    
+    "debug": "~2.6.9",
+    "express": "~4.16.1"
+  }
+}
